@@ -20,6 +20,7 @@ This project was built using these technologies.
 - [Cloudflare Turnstile](https://www.cloudflare.com/products/turnstile/)
 
 ## 🛠 Installation and Setup Instructions
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgbagush%2FMiniLink%2Ftree%2Fmain&env=MONGODB_URL,NEXT_PUBLIC_SITE_KEY,SECRET_KEY)
 1. Setup `.env`
     ```
     MONGODB_URL = "MONGODB_URL"
