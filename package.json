@@ -1,0 +1,29 @@
+{
+  "name": "mini-link",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@marsidev/react-turnstile": "^0.3.1",
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.5.4",
+    "nanoid": "^5.0.1",
+    "next": "13.5.4",
+    "qrcode.react": "^3.1.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "sweetalert2": "^11.7.31"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.4",
+    "postcss": "^8",
+    "tailwindcss": "^3"
+  }
+}
