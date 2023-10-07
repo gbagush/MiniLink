@@ -28,7 +28,7 @@ export default function NavBar() {
             <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                 <div className="container mx-auto px-12">
                     <a href="#" className="flex items-center">
-                        <img src="/logo2.png" className="h-14 mr-3" alt="Logo" />
+                        <img src="/logo.png" className="h-14 mr-3" alt="Logo" />
                     </a>
                 </div>
             </div>

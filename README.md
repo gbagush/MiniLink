@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Mini Link</h1>
   <img src="https://i.ibb.co/dmHZr1T/ezgif-2-c3420ecc5d.gif" alt="Website Demo" />
+  <h2><a href="https://mini-link-two.vercel.app/">Demo</a></h2>
 </div>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -10,16 +11,17 @@
 [![MIT License][license-shield]][license-url]
 
 ## About the Project
-This repository is a URL Shortener to shorten long URLs like bit.ly and similar. Built using NextJS and MongoDB as database and secured with Cloudflare Turnstile.
+This repository is a URL Shortener to shorten long URLs like [bit.ly](https://bitly.com/) and similar. Built using [Next.js](https://nextjs.org/) and [MongoDB](https://mongodb.com) as database and secured with [Cloudflare Turnstile](https://www.cloudflare.com/products/turnstile/).
 
 ## Build With
 This project was built using these technologies.
 - [Next.js](https://nextjs.org/)
 - [MongoDB](https://mongodb.com)
 - [TailwindCSS](https://tailwindcss.com)
-- [Turnstile](https://www.cloudflare.com/products/turnstile/)
+- [Cloudflare Turnstile](https://www.cloudflare.com/products/turnstile/)
 
 ## 🛠 Installation and Setup Instructions
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fgbagush%2FMiniLink%2Ftree%2Fmain&env=MONGODB_URL,NEXT_PUBLIC_SITE_KEY,SECRET_KEY)
 1. Setup `.env`
     ```
     MONGODB_URL = "MONGODB_URL"
