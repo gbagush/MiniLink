@@ -10,14 +10,14 @@
 [![MIT License][license-shield]][license-url]
 
 ## About the Project
-This repository is a URL Shortener to shorten long URLs like bit.ly and similar. Built using NextJS and MongoDB as database and secured with Cloudflare Turnstile.
+This repository is a URL Shortener to shorten long URLs like [bit.ly](https://bitly.com/) and similar. Built using [Next.js](https://nextjs.org/) and [MongoDB](https://mongodb.com) as database and secured with [Cloudflare Turnstile](https://www.cloudflare.com/products/turnstile/).
 
 ## Build With
 This project was built using these technologies.
 - [Next.js](https://nextjs.org/)
 - [MongoDB](https://mongodb.com)
 - [TailwindCSS](https://tailwindcss.com)
-- [Turnstile](https://www.cloudflare.com/products/turnstile/)
+- [Cloudflare Turnstile](https://www.cloudflare.com/products/turnstile/)
 
 ## 🛠 Installation and Setup Instructions
 1. Setup `.env`
